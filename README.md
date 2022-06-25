@@ -1,16 +1,21 @@
-### Hi there 👋
+### 👨🏽‍💻 About me
 
-<!--
-**jazavala/jazavala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Juan,
 
-Here are some ideas to get you started:
+I love solving problems working in a team and I enjoy topics related to agile architectures and methodologies. I love walking downtown I have 🐶🐶 dogs and a cat 🐈‍⬛.  I'm a fan of the Las Vegas Raiders ☠️☠️☠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 How to reach me:
+
+<p>
+  <a href="https://www.linkedin.com/in/juan-antonio-zavala-aguilar-4277905b" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+___
+
+[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jazavala&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+___
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jazavala&theme=onedark&count_private=true)](https://git.io/streak-stats)
+___
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jazavala.visitor-badge)
