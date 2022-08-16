@@ -14,7 +14,7 @@ I love solving problems working in a team and I enjoy topics related to agile ar
 
 ___
 
-[![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jazavala&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Juan's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jazavala&show_icons=true&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 ___
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jazavala&theme=onedark&count_private=true)](https://git.io/streak-stats)
 ___
