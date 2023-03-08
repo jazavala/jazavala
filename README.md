@@ -2,7 +2,7 @@
 
 Hi, I'm Juan,
 
-I love solving problems working in a team and I enjoy topics related to agile architectures and methodologies. I love walking downtown I have 🐶🐶 dogs and a cat 🐈‍⬛.  I'm a fan of the Las Vegas Raiders ☠️☠️☠️
+I love solving problems working in a team and I enjoy topics related to agile architectures and methodologies. I love walking downtown I have 🐶🐶🐶 dogs and 🐈‍⬛ 🐈‍ 🐈‍ cats I'm a fan of the Las Vegas Raiders ☠️☠️☠️
 
 📬 How to reach me:
 
